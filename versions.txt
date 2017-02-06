@@ -5,7 +5,7 @@ OpenStack DevStack stable Newton:
 OpenDaylight Boron:
 
     https://nexus.opendaylight.org/content/repositories/opendaylight.release/org/opendaylight/integration/distribution-karaf/0.5.2-Boron-SR2/distribution-karaf-0.5.2-Boron-SR2.tar.gz
-    https://www.opendaylight.org/downloads)
+    https://www.opendaylight.org/downloads
 
 CentOS-7:
 
