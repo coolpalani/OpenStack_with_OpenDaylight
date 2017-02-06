@@ -1,0 +1,20 @@
+OpenStack DevStack stable Newton:
+
+    openstack-dev/devstack at stable/newton
+
+OpenDaylight Boron:
+
+    https://nexus.opendaylight.org/content/repositories/opendaylight.release/org/opendaylight/integration/distribution-karaf/0.5.2-Boron-SR2/distribution-karaf-0.5.2-Boron-SR2.tar.gz
+    https://www.opendaylight.org/downloads)
+
+CentOS-7:
+
+    http://mirror.cc.columbia.edu/pub/linux/centos/7/isos/x86_64/CentOS-7-x86_64-Minimal-1611.iso
+
+VirtualBox 5.0.30:
+
+    https://www.virtualbox.org/wiki/Downloads
+
+Apple OS X:
+
+    El Capitan 10.11.6 Mac laptop

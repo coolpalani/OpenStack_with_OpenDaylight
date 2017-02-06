@@ -1,0 +1,7 @@
+How to deploy OpenStack Newton with OpenDaylight Boron and Open vSwitch:
+
+https://communities.cisco.com/community/developer/openstack/blog/2017/02/01/how-to-deploy-openstack-newton-with-opendaylight-boron-and-open-vswitch
+
+How to stack DevStack Newton on CentOS-7 in VirtualBox on Mac:
+
+https://communities.cisco.com/community/developer/openstack/blog/2016/12/03/how-to-stack-devstack-newton-on-centos-7-in-virtualbox-on-mac
